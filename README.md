@@ -61,7 +61,14 @@ The dataset used in this project contains information on 426K used cars, includi
 - The Random Forest model with the best parameters achieved an MAE of approximately 8268, an MSE of approximately 186040113, and an R² of approximately 0.359.
 - The most influential features in predicting car prices were odometer reading, year of manufacture, car condition, fuel type, vehicle type, and location of sale.
 
-## Usage
+## Conclusion
+This project provides a comprehensive analysis of the factors influencing used car prices and builds a predictive model to assist car dealerships in pricing their inventory effectively. The insights from the feature importance analysis can help dealers understand what consumers value in a used car.
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgements
+The dataset used in this project is sourced from Kaggle.
 
 
 
