@@ -44,7 +44,7 @@ The dataset used in this project contains information on 426K used cars, includi
 ### 3. Modeling
 
 - **Model Selection**: Evaluated different models including Linear Regression, Decision Tree, and Random Forest.
-- **Hyperparameter Tuning**: Used RandomizedSearchCV for hyperparameter tuning of the Random Forest model.
+- **Hyperparameter Tuning**: Used GridSearchCV for hyperparameter tuning of the Random Forest model.
 
 ### 4. Evaluation
 
